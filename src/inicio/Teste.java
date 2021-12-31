@@ -1,4 +1,6 @@
-package src;
+package inicio;
+
+
 
 public class Teste {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-package src;
+import metodos.met;
+
 // * Todo arquivo java começa iniciando uma classe com o nome do arquivo
 public class Main {
     // * Após criar a classe do arquivo, nós abrimos o main que é onde o codigo sera rodado
@@ -25,5 +26,7 @@ public class Main {
         */ 
         String hello = "Hello ";
         System.out.println(hello + "World");
+        met.print("ae funfo");
+        met.nome("Andrew");
     }
 }

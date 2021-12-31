@@ -1,4 +1,4 @@
-package src;
+package matematica;
 
 public class aritmetica {
     public static void main(String[] args) {
